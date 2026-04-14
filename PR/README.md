@@ -1,4 +1,4 @@
 main
 
-sub 1
-sub 2
+Sub 1
+Sub 2
